@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a generalist software and infrastructure engineer, with specific interests in containerisation, Kubernetes, configuration as code 📝, and cloud architectures ☁️.
+
+Previously: open source [Silverstripe CMS/framework](https://github.com/silverstripe), and [Silverstripe Cloud](https://www.silverstripe.com/cloud-hosting/) platform-as-a-service.
+
+I'm currently looking for new opportunities! You can find my email over on the left-hand bar there! 👈
