@@ -19,4 +19,4 @@ I'm a generalist software and infrastructure engineer, with specific interests i
 
 Previously I worked on open source [Silverstripe CMS/framework](https://github.com/silverstripe), and [Silverstripe Cloud](https://www.silverstripe.com/cloud-hosting/) platform-as-a-service.
 
-I'm currently looking for new opportunities! You can find my email over on the left-hand bar there! 👈
+I'm currently looking for new opportunities! You can find my email on the left-hand bar over there! 👈
