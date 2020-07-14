@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a generalist software and infrastructure engineer, with specific interests in containerisation 🚢, Kubernetes ☸️, configuration as code 📝, and cloud architectures ☁️.
+I'm a generalist software and infrastructure engineer, with specific interests in containerisation, and Kubernetes 🚢☸️, configuration as code 📝, and cloud architectures ☁️.
 
 Previously I worked on open source [Silverstripe CMS/framework](https://github.com/silverstripe), and [Silverstripe Cloud](https://www.silverstripe.com/cloud-hosting/) platform-as-a-service.
 
